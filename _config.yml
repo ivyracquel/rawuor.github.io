@@ -20,7 +20,7 @@ pages_list:
   #Blog: 'blog'
   #Research:'research'
   Career: 'career'
-  Projects: 'projects'
+ #Projects: 'projects'
   Contact: 'contact'
 
 #background-img: "/img/intro-bg.jpg"
