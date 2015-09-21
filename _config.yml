@@ -23,8 +23,7 @@ pages_list:
   Career: 'career'
   Contact: 'contact'
 
-#background-img: "/img/intro-bg.jpg"
-background-img:"https://images.unsplash.com/photo-1442410519123-a33d5dc262b1?q=80&fm=jpg&s=e780d99b351e27b97cf17506fe75b4ef"
+background-img: "/img/intro-bg.jpg"
 
 # About variables
 
