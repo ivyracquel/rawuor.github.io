@@ -42,8 +42,8 @@ twitter-share: True
 reddit-share: False
 
 projects:
-  -title:Flappy bird clone
-    url: "https://github.com/rawuor"
+  -title: "Flappy bird clone"
+    description: "Used XCode and SpriteKit to create a clone of the Flappy bird game for iOS. Code on github: <a href = \"https://github.com/rawuor\" target =\"_blank\">Here!</a>"
 
 # Career variables
 
