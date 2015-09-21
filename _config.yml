@@ -69,18 +69,13 @@ career-img: "/img/career/default.jpg"
 #projects 
 projects:
   - title: "Flappy bird clone"
-    description: "Used XCode and SpriteKit to create a clone of the Flappy bird game for iOS."
-    description: "Code on github: <a href = \"https://github.com/rawuor\" target =\"_blank\">Here!</a>"
-    description: "Programming language: Objective C"
+    description: "Used XCode and SpriteKit to create a clone of the Flappy bird game for iOS.Code on github: <a href = \"https://github.com/rawuor\" target =\"_blank\">Here!</a> Programming language: Objective C"
     
   -title: "Stereo input filter"
-    description: "Implemented a filter for stereo audio input using XCode and Faust" 
-    description: "Code on github: <a href = \"https://github.com/rawuor\" target = \"_blank\" >Here!</a>"
-    description: "Programming language: Faust"
+    description: "Implemented a filter for stereo audio input using XCode and Faust. Code on github: <a href = \"https://github.com/rawuor\" target = \"_blank\" >Here!</a> Programming language: Faust"
     
   -title: "Guitar Tuner app"
-    description: "An guitar tuner app, adapted from "
-    description: "Code on github:<a href = \"https://github.com/rawuor\" target = \"_blank\">Here</a>"
+    description: "An guitar tuner app, adapted from . Code on github:<a href = \"https://github.com/rawuor\" target = \"_blank\">Here</a>"
     
 # Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
 social:
