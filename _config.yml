@@ -17,9 +17,9 @@ disqus-shortname: "rawuor"
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
+  #Blog: 'blog'
   #Research:'research'
-  Projects:'projects'
+  #Projects:'projects'
   Career: 'career'
   Contact: 'contact'
 
