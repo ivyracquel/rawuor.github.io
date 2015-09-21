@@ -19,7 +19,7 @@ pages_list:
   About: 'about'
   Blog: 'blog'
   #Research:'research'
-  #Projects:'Projects'
+  Projects:'projects'
   Career: 'career'
   Contact: 'contact'
 
