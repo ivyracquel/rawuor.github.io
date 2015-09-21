@@ -3,11 +3,13 @@
 url: "http://kistar2010.github.io"
 title: "{ Racquel Ivy Awuor }"
 description: "Blog and website of Ivy Awuor"
-keywords: "panos, sakkos, panos sakkos, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft"
+#keywords: "panos, sakkos, panos sakkos, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft"
+keywords:"racquel, awuor, ivy, rawuor, technology, computer science, electrical engineering, computer engineering, computer science, research, programming"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
-google-tracking-id: "UA-35880426-3"
-disqus-shortname: "panossakkos"
+#google-tracking-id: "UA-35880426-3"
+google-tracking-id:false
+disqus-shortname: "rawuor"
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -16,6 +18,8 @@ disqus-shortname: "panossakkos"
 pages_list:
   About: 'about'
   Blog: 'blog'
+  Research:'research'
+  Projects:'Projects'
   Career: 'career'
   Contact: 'contact'
 
@@ -34,7 +38,7 @@ post-preview-words: 128
 
 fb-share: True
 twitter-share: True
-reddit-share: True
+reddit-share: False
 
 # Career variables
 
