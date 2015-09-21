@@ -44,7 +44,7 @@ reddit-share: False
 # Career variables
 
 events:
-  - image: "/img/career/microsoft.jpg"
+  - image: "/img/career/uwm.png"
     date: "July 2015 - Today"
     description: "Summer Research Assistant @<a href = \"http://uwm.edu/engineering/academics-2/departments/electrical-engineering\" target = \"_blank\">University of Wisconsin-Milwaukee Department of Electrical Engineering and Computer Science </a> "
   - image: "/img/career/uoa.jpg"
