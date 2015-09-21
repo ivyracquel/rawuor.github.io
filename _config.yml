@@ -8,7 +8,7 @@ keywords:"racquel, awuor, ivy, rawuor, technology, computer science, electrical 
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 #google-tracking-id: "UA-35880426-3"
-google-tracking-id:false
+#google-tracking-id:false
 disqus-shortname: "rawuor"
 
 # Navigation bar links
