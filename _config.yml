@@ -67,9 +67,9 @@ events:
 career-img: "/img/career/default.jpg"
 
 #projects 
-#projects:
- # - title: "Flappy bird clone"
-  #  description: "Used XCode and SpriteKit to create a clone of the Flappy bird game for iOS.Code on github: <a href = \"https://github.com/rawuor\" target =\"_blank\">Here!</a> Programming language: Objective C"
+projects:
+  - title: "Flappy bird clone"
+    description: "Used XCode and SpriteKit to create a clone of the Flappy bird game for iOS.Code on github: <a href = \"https://github.com/rawuor\" target =\"_blank\">Here!</a> Programming language: Objective C"
     
   #-title: "Stereo input filter"
   #  description: "Implemented a filter for stereo audio input using XCode and Faust. Code on github: <a href = \"https://github.com/rawuor\" target = \"_blank\" >Here!</a> Programming language: Faust"
