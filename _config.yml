@@ -66,7 +66,7 @@ events:
 # First image of the Career timeline
 career-img: "/img/career/default.jpg"
 
-#projects 
+#projects variables  
 projects:
   - title: "Flappy bird clone"
     description: "Used XCode and SpriteKit to create a clone of the Flappy bird game for iOS.Code on github: <a href = \"https://github.com/rawuor\" target =\"_blank\">Here!</a> Programming language: Objective C"
