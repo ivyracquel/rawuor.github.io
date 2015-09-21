@@ -3,15 +3,6 @@
     <div class="col-lg-8 col-lg-offset-2">
 
       {{ page.content | markdownify }}
-
-      <ul class="projects">
-        {% for project in site.projects %}
-          <li class="project">
-            <div class="project-title">{{project.title}}</div>
-            <div class="project-description">{{project.description}}</div>
-          </li>
-        {% endfor %}
-      </ul>
     </div>
   </div>
 </section>
