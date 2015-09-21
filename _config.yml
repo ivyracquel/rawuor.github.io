@@ -50,7 +50,7 @@ events:
   - image: "/img/career/uoa.jpg"
     date: "May 2015"
     description: "Graduated: Obtained BSc in Electrical and Computer Engineering"
-  - image: "/img/career/AHA.png"
+  - image: "/img/career/AHA.jpg"
     date: "May 2014 - August 2014"
     description: "American Heart Association Research Fellow. Designed and implemented imaging algorithms for cardiovascular ultrasound imaging."
   - image: "/img/career/pwnmail.jpg"
