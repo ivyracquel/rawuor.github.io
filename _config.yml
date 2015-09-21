@@ -19,8 +19,8 @@ pages_list:
   About: 'about'
   #Blog: 'blog'
   #Research:'research'
-  Projects: 'projects'
   Career: 'career'
+   Projects: 'projects'
   Contact: 'contact'
 
 #background-img: "/img/intro-bg.jpg"
@@ -40,10 +40,6 @@ post-preview-words: 128
 fb-share: True
 twitter-share: True
 reddit-share: False
-
-projects:
-  - title: "Flappy bird clone"
-    description: "Used XCode and SpriteKit to create a clone of the Flappy bird game for iOS. Code on github: <a href = \"https://github.com/rawuor\" target =\"_blank\">Here!</a>"
 
 # Career variables
 
@@ -70,6 +66,22 @@ events:
 # First image of the Career timeline
 career-img: "/img/career/default.jpg"
 
+#projects 
+projects:
+  - title: "Flappy bird clone"
+    description: "Used XCode and SpriteKit to create a clone of the Flappy bird game for iOS."
+    description: "Code on github: <a href = \"https://github.com/rawuor\" target =\"_blank\">Here!</a>"
+    description: "Programming language: Objective C"
+    
+  -title: "Stereo input filter"
+    description: "Implemented a filter for stereo audio input using XCode and Faust" 
+    description: "Code on github: <a href = \"https://github.com/rawuor\" target = \"_blank\" >Here!</a>"
+    description: "Programming language: Faust"
+    
+  -title: "Guitar Tuner app"
+    description: "An guitar tuner app, adapted from "
+    description: "Code on github:<a href = \"https://github.com/rawuor\" target = \"_blank\">Here</a>"
+    
 # Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
 social:
   - title: "rss"
