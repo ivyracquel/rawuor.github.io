@@ -41,6 +41,10 @@ fb-share: True
 twitter-share: True
 reddit-share: False
 
+projects:
+  -title:Flappy bird clone
+    url: "https://github.com/rawuor"
+
 # Career variables
 
 events:
