@@ -44,7 +44,7 @@ reddit-share: False
 # Career variables
 
 events:
-  - image: "/img/career/uwm.png"
+  - image: "/img/career/default.jpg"
     date:  "January 2015 - Today"
     description: "Software development intern @<a href = \"http://www.bradycorp.com\" target = \"_blank\">Brady Coroparation.</a> "
   - image: "/img/career/uwm.png"
