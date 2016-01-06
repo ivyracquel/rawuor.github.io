@@ -44,6 +44,9 @@ reddit-share: False
 # Career variables
 
 events:
+  -image: "" #Brady logo
+    date: "January 2015 - Present"
+    description: "Software Development Intern @<a href = \"http://www.bradycorp.com\" target = \"blank\"> Brady Corporation.
   - image: "/img/career/uwm.png"
     date: "July 2015 - Today"
     description: "Summer Research Assistant @<a href = \"http://uwm.edu/engineering/academics-2/departments/electrical-engineering\" target = \"_blank\">University of Wisconsin-Milwaukee Department of Electrical Engineering and Computer Science </a> "
