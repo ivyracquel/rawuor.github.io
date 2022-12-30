@@ -28,7 +28,7 @@ background-img: "/img/intro-bg1.jpg"
 
 # About variables
 
-#me-img: "/img/me1.jpg"
+me-img: "/img/me1.jpg"
 
 # Blog variables
 paginate: 15
